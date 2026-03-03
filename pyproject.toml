@@ -1,7 +1,7 @@
 [project]
-name = "rag-starter"
+name = "llm-rag-stack"
 version = "0.1.0"
-description = "RAG starter: FastAPI + ChromaDB + SentenceTransformers"
+description = "RAG Semantic search stack: FastAPI + ChromaDB + SentenceTransformers"
 requires-python = ">=3.10"
 dependencies = [
   "fastapi>=0.110",
