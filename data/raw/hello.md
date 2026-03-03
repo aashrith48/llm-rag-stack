@@ -1,0 +1,1 @@
+# Hello RAG\n\nThis is a sample document for ingestion.\n
